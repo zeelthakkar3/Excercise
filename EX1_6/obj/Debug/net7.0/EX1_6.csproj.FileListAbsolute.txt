@@ -1,0 +1,15 @@
+C:\Users\zeel.t\EX1_6\bin\Debug\net7.0\EX1_6.exe
+C:\Users\zeel.t\EX1_6\bin\Debug\net7.0\EX1_6.deps.json
+C:\Users\zeel.t\EX1_6\bin\Debug\net7.0\EX1_6.runtimeconfig.json
+C:\Users\zeel.t\EX1_6\bin\Debug\net7.0\EX1_6.dll
+C:\Users\zeel.t\EX1_6\bin\Debug\net7.0\EX1_6.pdb
+C:\Users\zeel.t\EX1_6\obj\Debug\net7.0\EX1_6.csproj.AssemblyReference.cache
+C:\Users\zeel.t\EX1_6\obj\Debug\net7.0\EX1_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeel.t\EX1_6\obj\Debug\net7.0\EX1_6.AssemblyInfoInputs.cache
+C:\Users\zeel.t\EX1_6\obj\Debug\net7.0\EX1_6.AssemblyInfo.cs
+C:\Users\zeel.t\EX1_6\obj\Debug\net7.0\EX1_6.csproj.CoreCompileInputs.cache
+C:\Users\zeel.t\EX1_6\obj\Debug\net7.0\EX1_6.dll
+C:\Users\zeel.t\EX1_6\obj\Debug\net7.0\refint\EX1_6.dll
+C:\Users\zeel.t\EX1_6\obj\Debug\net7.0\EX1_6.pdb
+C:\Users\zeel.t\EX1_6\obj\Debug\net7.0\EX1_6.genruntimeconfig.cache
+C:\Users\zeel.t\EX1_6\obj\Debug\net7.0\ref\EX1_6.dll
